@@ -1,0 +1,79 @@
+{
+  "Navigation": [
+    {
+      "name": "home",
+      "url": "home"
+    },
+    {
+      "name": "about",
+      "url": "about"
+    },
+    {
+      "name": "students",
+      "url": "students"
+    },
+    {
+      "name": "contact",
+      "url": "contact"
+    }
+  ],
+  "Student": [
+    {
+        "name": "Steve",
+        "email": "s@g.com",
+        "grade": "A",
+        "phone": "555-555-5555"
+    },
+    {
+        "name": "Kevin",
+        "email": "k@g.com",
+        "grade": "B+",
+        "phone": "555-555-5555"
+    },
+    {
+        "name": "Grumblo",
+        "email": "g@g.com",
+        "grade": "C-",
+        "phone": "555-555-5555"
+    },
+    {
+        "name": "Splatoola",
+        "email": "sp@g.com",
+        "grade": "A+",
+        "phone": "555-555-5555"
+    },
+    {
+        "name": "Flumbo",
+        "email": "fl@g.com",
+        "grade": "B-",
+        "phone": "555-555-5555"
+    }
+  ],
+  "Parent": [
+    {
+        "name": "Beefaroni",
+        "email": "beef@g.com",
+        "phone": "555-555-5555"
+    },
+    {
+        "name": "Lubalina",
+        "email": "lub@g.com",
+        "phone": "555-555-5555"
+    },
+    {
+        "name": "BAYLE",
+        "email": "bay@g.com",
+        "phone": "555-555-5555"
+    },
+    {
+        "name": "Igon",
+        "email": "CURSEYOUBAYLE@g.com",
+        "phone": "555-555-5555"
+    },
+    {
+        "name": "Glothinox",
+        "email": "glo@g.com",
+        "phone": "555-555-5555"
+    }
+  ]
+}
